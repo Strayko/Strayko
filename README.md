@@ -5,7 +5,7 @@
 ### Connect with me:
 <a href="https://www.linkedin.com/in/moamer-jusupovic-5420b2130/" target="_blank"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a> <br>
 ### Languages and Tools:
-[<img align="left" alt="Android" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg"/>][github]
+<img align="left" alt="Android" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg"/>
 
 
 <!--
