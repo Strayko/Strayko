@@ -1,6 +1,6 @@
 ### Hi there, I'm Moamer 👋
 
-### I'm Software Developer 
+### I'm Software Enginner
 <!--
 **Strayko/Strayko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
