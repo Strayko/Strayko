@@ -17,6 +17,10 @@
 <img align="left" alt="php" width="32px" src="https://github.com/github/explore/blob/main/topics/php/php.png" />
 <img align="left" alt="laravel" width="32px" src="https://github.com/github/explore/blob/main/topics/laravel/laravel.png" />
 <img align="left" alt="mysql" width="32px" src="https://github.com/github/explore/blob/main/topics/mysql/mysql.png" />
+* * *
+<summary>:zap: GitHub Stats</summary>
+
+<img align="left" alt="Moamers GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Strayko&show_icons=true&hide_border=true" />
 
 
 <!--
