@@ -10,6 +10,8 @@
 <img align="left" alt="aspnet" width="32px" src="https://github.com/github/explore/blob/main/topics/aspnet/aspnet.png" />
 <img align="left" alt="javascript" width="32px" src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png" />
 <img align="left" alt="angular" width="32px" src="https://github.com/github/explore/blob/main/topics/angular/angular.png" />
+<img align="left" alt="php" width="32px" src="https://github.com/github/explore/blob/main/topics/php/php.png" />
+<img align="left" alt="laravel" width="32px" src="https://github.com/github/explore/blob/main/topics/laravel/laravel.png" />
 
 
 <!--
