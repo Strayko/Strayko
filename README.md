@@ -8,6 +8,8 @@
 <img align="left" alt="dotnet" width="32px" src="https://github.com/github/explore/blob/main/topics/dotnet/dotnet.png" />
 <img align="left" alt="charp" width="32px" src="https://github.com/github/explore/blob/main/topics/csharp/csharp.png" />
 <img align="left" alt="aspnet" width="32px" src="https://github.com/github/explore/blob/main/topics/aspnet/aspnet.png" />
+<img align="left" alt="javascript" width="32px" src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png" />
+<img align="left" alt="angular" width="32px" src="https://github.com/github/explore/blob/main/topics/angular/angular.png" />
 
 
 <!--
