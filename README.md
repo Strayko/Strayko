@@ -6,6 +6,7 @@
 <a href="https://www.linkedin.com/in/moamer-jusupovic-5420b2130/" target="_blank"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a> <br>
 ### Languages and Tools:
 <img align="left" alt="aspnet" width="32px" src="https://github.com/github/explore/blob/main/topics/aspnet/aspnet.png" />
+<img align="left" alt="dotnet" width="32px" src="https://github.com/github/explore/blob/main/topics/dotnet/dotnet.png" />
 
 
 <!--
